@@ -1,4 +1,7 @@
-# Hi! I'm Furkan,  I'm Software Developer :computer: 
+# Hi! I'm Furkan👋
+<div align=left>
+  <img src="https://readme-typing-svg.herokuapp.com?size=40&duration=3000&color=45FFCA&left=true&vCenter=true&width=800&height=100&lines=I'm+an+Android+Developer;I'm+an+Android+Instructor" alt="Headline" />
+</div> 
 
 <img alt="Coder GIF" height=250 width=350 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" /><br>
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=kynetichaze&label=Profile%20views&color=0e75b6&style=flat" alt="kynetichaze" /> </p>
