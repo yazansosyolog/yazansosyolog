@@ -1,17 +1,16 @@
-# Hi! I'm Furkan👋
+<h1 align="center">Hi! I'm Furkan👋</h1>
 
-
- 🔭 I’m currently working on me
-
- 🌻 I’m currently learning Kotlin, Android
-
- 💬 Ask me about everything
-
- 📫 How to reach me **furkanhrmnc63@gmail.com**
-
- 📄 Know about my experiences here
-
- ⚡ Fun fact **I think I'm a good fit**
+<div>
+ <img align="right" src="https://github.com/KyneticHaze/KyneticHaze/assets/120178827/781e51bf-4218-4fd5-9a09-02f4b365f02c">
+ <ul>
+  <li>🔭 I’m currently working on me</li>
+  <li>🌻 I’m currently learning Kotlin, Android</li>
+  <li>💬 Ask me about everything</li>
+  <li>📫 How to reach me <span style="font-weight:bold;">furkanhrmnc63@gmail.com</span></li>
+  <li>📄 Know about my experiences here</li>
+  <li>⚡ Fun fact I think I'm a good fit</li>
+ </ul>
+</div>
 
  <br>
 
