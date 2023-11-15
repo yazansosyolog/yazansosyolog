@@ -1,7 +1,7 @@
 <h1 align="center">Hi! I'm Furkan👋</h1>
 
 <div>
- <img align="right" src="https://github.com/KyneticHaze/KyneticHaze/assets/120178827/781e51bf-4218-4fd5-9a09-02f4b365f02c">
+ <img align="right" src="https://github.com/KyneticHaze/KyneticHaze/assets/120178827/136b4876-f679-4352-92f7-9dc44cca3b7c">
  <ul>
   <li>🔭 I’m currently working on me</li>
   <li>🌻 I’m currently learning Kotlin, Android</li>
