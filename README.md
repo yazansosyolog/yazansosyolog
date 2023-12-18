@@ -1,8 +1,9 @@
 <h1 align="center">Hi! I'm Furkan👋</h1>
 
-<img align="right" src="https://github.com/KyneticHaze/KyneticHaze/assets/120178827/daa22d78-fa82-44fa-9d4b-043d94a4f066" width="250" >
+ <img align="right" src="https://github.com/KyneticHaze/KyneticHaze/assets/120178827/daa22d78-fa82-44fa-9d4b-043d94a4f066" width="250" >
 
- <ul>
+
+ <ul align="left">
   <li>🔭 I’m currently working on me</li>
   <li>🌻 I’m currently learning Kotlin, Android</li>
   <li>💬 Ask me about everything</li>
@@ -10,6 +11,8 @@
   <li>📄 Know about my experiences here</li>
   <li>⚡ Fun fact I think I'm a good fit</li>
  </ul>
+
+
 
 # 🌐 Connect with me:
 <p align="left">
