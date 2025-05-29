@@ -1,4 +1,4 @@
-<h1 align="center">Hi! I'm Furkan👋</h1>
+<h1 align="left">Hi! I'm Furkan👋</h1>
 
  <img align="right" src="https://github.com/KyneticHaze/KyneticHaze/assets/120178827/daa22d78-fa82-44fa-9d4b-043d94a4f066" width="250" >
 
