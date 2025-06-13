@@ -17,7 +17,7 @@
 # 🌐 Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/furkan-harmanci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="furkan-harmanci" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/20983354" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20983354" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/23877232/yazansosyolog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20983354" height="30" width="40" /></a>
 <a href="https://medium.com/@furkanhrmnc63" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@furkanhrmnc63" height="30" width="40" /></a>
 </p>
 
