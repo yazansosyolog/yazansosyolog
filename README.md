@@ -5,7 +5,7 @@
 
  <ul align="left">
   <li>🔭 I’m currently working on me</li>
-  <li>🌻 I’m currently learning Kotlin, Android and DB</li>
+  <li>🌻 I’m currently learning Android, KMP and Flutter</li>
   <li>💬 Ask me about everything</li>
   <li>📫 How to reach me <span style="font-weight:bold;"><a href = "mailto:furkanhrmnc63@gmail.com">furkanhrmnc63@gmail.com</a></span></li>
   <li>📄 Know about my experiences here</li>
